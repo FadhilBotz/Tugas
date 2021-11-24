@@ -111,18 +111,18 @@ const _reminder = JSON.parse(fs.readFileSync("./database/reminder.json"));
 /*SETTINGGGGGGGG*/
 banChats = false;
 offline = false;
-targetpc = "6281319944917";
-gopay = "0882-1329-2687";
+targetpc = "6288271707571";
+gopay = "0882-8271-7071";
 limitawal = "20"
 ovo = "0882-1329-2687";
 pulsa = "0813-1994-4917";
 dana = "0813-1994-4917"
-namabot = "*Jojo-Bot*";
+namabot = "*MH-BOTZ*";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
 grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
-owner = "6281319944917";
-nama_owner = "Arasyaaa";
+owner = "62882717075714";
+nama_owner = "MH GZ";
 instagram = "sofunsyabi.id";
 yt = "https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA";
 fake = "JOJO";
